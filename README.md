@@ -29,6 +29,6 @@ Once again shortcuts made the make of this wheel take no time at all. I was very
 
 ---
 # 2.4 "Put it all together!"
-![](https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/images/wheel%20and%20bearing.PNG)
+![](https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/images/finished%20skateboardd.PNG)
 Lastly the "Put it all together!" i loved putting all of this together, using the copy and paste tool so i dod not have to individually put togetehr the wheels, and truck hanger, etc. With minimal instruction and common snese i was able to successfully and correctly put toghter my skateboard. I really learned some new stuff from the project and can hepofully find use for it in the furutre. 
 
