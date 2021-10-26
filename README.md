@@ -1,7 +1,7 @@
 # CAD--Advanced-
 
 ## Table of contents
-*[Skateboard](Skateboard)
+*[Skateboard](#Skateboard)
 
 # Skateboard
 In this assignment is was presented with the task of creating a lego. I was given instructiins and measuremnts in order to prperly scale out and create the legos and duck. I learned many things from this project. In cluding the fact the designing in onshape is not hard to make and can be simplified using shortcuts and cheat codes. There were many shortcuts that were revealed to me that i will be using in the furture for assitance. 
