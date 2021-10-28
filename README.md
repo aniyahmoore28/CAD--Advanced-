@@ -5,7 +5,7 @@
 * [2.1 The Deck](https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/README.md#21-deck)
 * [2.2 Truck Hanger](https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/README.md#22-truck)
 * [2.3 Wheel and Bearing](https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/README.md#23-wheel-and-bearing)
-* [2.4 "Put it all together!"](#2.4-"Put-it-all-together!")
+* [2.4 "Put it all together!"](https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/README.md#24-put-it-all-together)
 
 ---
 # Skateboard
