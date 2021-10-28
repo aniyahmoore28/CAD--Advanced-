@@ -19,6 +19,7 @@ I was able to get a feel for the skatebord. I was taought that adding fillets an
 <img src="https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/images/skateboard%20deck.PNG" width="500" />
 ---
 # 2.2 Truck
+
 I learned that making new parts is way easier when you take and use excisting measurments from other premade parts. It simplifies the job and leaves very little room for error. Making the chance of me needing to go back and fix things way low. Another shortuct i discovered and did not know before was L which toggles the line tool on and off. 
 <img src="https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/images/2.2.PNG" width="500" />
 ---
