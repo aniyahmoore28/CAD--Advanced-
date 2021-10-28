@@ -3,7 +3,7 @@
 ## Table of contents
 * [Skateboard](#Skateboard)
 * [2.1 The Deck](#2.1-Deck)
-* [2.2 Truck Hanger](#2.2-)
+* [2.2 Truck Hanger](#2.2-Truck)
 * [2.3 Wheel and Bearing](#2.3-Wheel-and-Bearing)
 * [2.4 "Put it all together!"](#2.4-"Put-it-all-together!")
 
