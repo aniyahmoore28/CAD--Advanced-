@@ -20,7 +20,7 @@ In this assignment is was presented with the task of creating a lego. I was give
 I was able to get a feel for the skatebord. I was taought that adding fillets and little details really make a difference in the apperence of the skateboard. two shortcuts i already knew but were very usefull during the whole project were S for new sketch and N for normal. 
 
 ---
-# 2.2 Truck
+# 2.2 Truck Hanger 
 <img src="https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/images/2.2.PNG" width="500" />
 I learned that making new parts is way easier when you take and use excisting measurments from other premade parts. It simplifies the job and leaves very little room for error. Making the chance of me needing to go back and fix things way low. Another shortuct i discovered and did not know before was L which toggles the line tool on and off. 
 
