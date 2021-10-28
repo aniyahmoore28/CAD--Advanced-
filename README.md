@@ -2,8 +2,8 @@
 
 ## Table of contents
 * [Skateboard](#Skateboard)
-* [2.1 The Deck](#2.1-The-Deck)
-* [2.2 Truck Hanger](#2.2-Truck-Hanger)
+* [2.1 The Deck](#2.1-Deck)
+* [2.2 Truck Hanger](#2.2-Truck)
 * [2.3 Wheel and Bearing](#2.3-Wheel-and-Bearing)
 * [2.4 "Put it all together!"](#2.4-"Put-it-all-together!")
 
@@ -15,7 +15,7 @@ In this assignment is was presented with the task of creating a lego. I was give
 [Heres a link to my onshape document](https://cvilleschools.onshape.com/documents/bc5f94884a80736529409d00/w/b78a79dbb148b90b3f7d5da8/e/f9d902f147cb365539b6122f?renderMode=0&uiState=61780fef71f7fd1e13587e9f)
 
 ---
-# 2.1 The Deck
+# 2.1 Deck
 <img src="https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/images/skateboard%20deck.PNG" width="500" />
 I was able to get a feel for the skatebord. I was taought that adding fillets and little details really make a difference in the apperence of the skateboard. two shortcuts i already knew but were very usefull during the whole project were S for new sketch and N for normal. 
 
