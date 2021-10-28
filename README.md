@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Skateboard](#Skateboard)
-* [2.1 The Deck](#2.1-Deck)
+* [2.1 The Deck](https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/README.md#21-deck)
 * [2.2 Truck Hanger](https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/README.md#22-truck)
 * [2.3 Wheel and Bearing](#2.3-Wheel-and-Bearing)
 * [2.4 "Put it all together!"](#2.4-"Put-it-all-together!")
