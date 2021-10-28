@@ -25,7 +25,7 @@ I was able to get a feel for the skatebord. I was taought that adding fillets an
 I learned that making new parts is way easier when you take and use excisting measurments from other premade parts. It simplifies the job and leaves very little room for error. Making the chance of me needing to go back and fix things way low. Another shortuct i discovered and did not know before was L which toggles the line tool on and off. 
 
 # 2.3 Wheel and Bearing
-<img src="https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/images/wheel%20and%20bearing.PNG" width="500" />
+<img src="https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/images/wheel%20and%20bearing.PNG" width="400" />
 Once again shortcuts made the make of this wheel take no time at all. I was very impressed in my self and the tools provided by onshape. My conficence in my building skills grew and became stronger. And lastyly the most shocking and short timed tool was the revolve tool when making my wheel. I was able to avoid the issue and complications that can often cone with extruding.
 
 ---
