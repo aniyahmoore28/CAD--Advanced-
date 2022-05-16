@@ -10,7 +10,7 @@
 ---
 # Skateboard
 # Description
-In this assignment is was presented with the task of creating a lego. I was given instructiins and measuremnts in order to prperly scale out and create the legos and duck. I learned many things from this project. In cluding the fact the designing in onshape is not hard to make and can be simplified using shortcuts and cheat codes. There were many shortcuts that were revealed to me that i will be using in the furture for assitance. 
+In this assignment is was presented with the task of creating a skateboard. I was given instructiins and measuremnts in order to prperly scale out and create the legos and duck. I learned many things from this project. In cluding the fact the designing in onshape is not hard to make and can be simplified using shortcuts and cheat codes. There were many shortcuts that were revealed to me that i will be using in the furture for assitance. 
 # Reflection
 Creating this peice allwoed me to grow and connect with my abilities to problem solve and make mistakes in onshape. 
 <img src="https://github.com/aniyahmoore28/CAD--Advanced-/blob/main/images/finished%20skateboardd.PNG" width="500" />
